@@ -7,4 +7,4 @@ function sayGoodbye(name) {
 }
 
 console.log(sayHello("Automation Tester"));
-console.log(sayGoodbye("Manual Testing"));
+console.log(sayGoodbye("bye2025"));
